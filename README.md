@@ -12,7 +12,6 @@
 - React
 - Express
 - MongoDB
-- 
 
 
 [![codewars](https://www.codewars.com/users/Iartseva/badges/small)](https://www.codewars.com/users/Iartseva) 
