@@ -10,6 +10,7 @@
 - CSS
 - JavaScript
 - React
+- Node.js 
 - Express
 - MongoDB
 
