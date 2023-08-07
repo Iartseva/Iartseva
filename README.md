@@ -21,3 +21,9 @@ Cтек технологий:
 [![codewars](https://www.codewars.com/users/Iartseva/badges/small)](https://www.codewars.com/users/Iartseva) 
 
 ![](https://komarev.com/ghpvc/?username=Iartseva)
+
+*Контакты:*
+Email: ol-buslaeva@ya.ru
+LinkedIn <https://linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188/>
+[@[Iartseva](http://t-do.ru/Iartseva "Telegram channel")
+
