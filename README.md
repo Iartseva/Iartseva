@@ -22,7 +22,7 @@ Cтек технологий:
 
 ![](https://komarev.com/ghpvc/?username=Iartseva)
 
-*Контакты:* <br>
+### *Контакты:* <br>
 Email: ol-buslaeva@ya.ru <br>
 LinkedIn: <https://linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188/> <br>
 Telegram: [Iartseva](http://t-do.ru/Iartseva "Telegram channel")
