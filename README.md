@@ -1,7 +1,7 @@
 ## Привет! Меня зовут Ольга.
 
 <div id="badges">
-  <a href="linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188">
+  <a href="https://www.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Iartseva">
