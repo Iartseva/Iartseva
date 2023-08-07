@@ -1,5 +1,14 @@
 ## Привет! Меня зовут Ольга.
 
+<div id="badges">
+  <a href="linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Iartseva">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 В настоящий момент я работаю в крупнейшей российской ИТ-компании.
 С 2011 года я работаю в ИТ на различных ролях: от менеджера по продажам комплексных ИТ-проектов до заместителя директора по развитию. Более подробно о моем опыте в резюме на HH: https://tula.hh.ru/applicant/resumes/view?resume=1d19824cff01d729ca0039ed1f544f6150644a.
 
@@ -24,6 +33,6 @@ Cтек технологий:
 
 ### *Контакты:* <br>
 Email: ol-buslaeva@ya.ru <br>
-LinkedIn: <https://linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D1%8F-495920188/> <br>
+LinkedIn: <https:///> <br>
 Telegram: [Iartseva](http://t-do.ru/Iartseva "Telegram channel")
 
